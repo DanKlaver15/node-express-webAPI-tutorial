@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DanKlaver15/node-express-webAPI-tutorial#readme",
   "dependencies": {
+    "config": "^3.3.4",
     "mongoose": "^5.11.18"
   }
 }
